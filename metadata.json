@@ -1,0 +1,7 @@
+{
+  "name": "OGU Platform",
+  "description": "A Web3-secured, multi-agent computer vision DApp for industrial safety compliance (PPE Detection).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
