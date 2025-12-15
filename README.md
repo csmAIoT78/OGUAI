@@ -54,3 +54,5 @@ The OGU platform is a suite of multi-agent, MCP-driven, blockchain-secured Web3 
 
 ## 📂 File Structure
 See `docs/ARCHITECTURE.md` for a full Mermaid diagram of the repository.
+<img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/9db8f5ce-7b3e-46ef-ada9-a6e38cfbe414" />
+![visionagent](https://github.com/user-attachments/assets/81fed199-52cc-4cfc-b9b4-9fdecf811aa2)
